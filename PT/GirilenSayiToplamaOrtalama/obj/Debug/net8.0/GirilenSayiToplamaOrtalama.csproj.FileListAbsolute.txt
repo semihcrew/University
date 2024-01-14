@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\bin\Debug\net8.0\GirilenSayiToplamaOrtalama.exe
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\bin\Debug\net8.0\GirilenSayiToplamaOrtalama.deps.json
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\bin\Debug\net8.0\GirilenSayiToplamaOrtalama.runtimeconfig.json
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\bin\Debug\net8.0\GirilenSayiToplamaOrtalama.dll
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\bin\Debug\net8.0\GirilenSayiToplamaOrtalama.pdb
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.dll
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\refint\GirilenSayiToplamaOrtalama.dll
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.pdb
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\GirilenSayiToplamaOrtalama.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\GirilenSayiToplamaOrtalama\obj\Debug\net8.0\ref\GirilenSayiToplamaOrtalama.dll

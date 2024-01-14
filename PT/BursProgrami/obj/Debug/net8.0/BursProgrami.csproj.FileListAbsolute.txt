@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BursProgrami\bin\Debug\net8.0\BursProgrami.exe
+C:\Users\Lenovo\source\repos\BursProgrami\bin\Debug\net8.0\BursProgrami.deps.json
+C:\Users\Lenovo\source\repos\BursProgrami\bin\Debug\net8.0\BursProgrami.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BursProgrami\bin\Debug\net8.0\BursProgrami.dll
+C:\Users\Lenovo\source\repos\BursProgrami\bin\Debug\net8.0\BursProgrami.pdb
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.dll
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\refint\BursProgrami.dll
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.pdb
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\BursProgrami.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BursProgrami\obj\Debug\net8.0\ref\BursProgrami.dll

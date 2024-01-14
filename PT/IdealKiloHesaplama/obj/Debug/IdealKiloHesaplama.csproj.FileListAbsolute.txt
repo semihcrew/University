@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\bin\Debug\IdealKiloHesaplama.exe.config
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\bin\Debug\IdealKiloHesaplama.exe
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\bin\Debug\IdealKiloHesaplama.pdb
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\obj\Debug\IdealKiloHesaplama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\obj\Debug\IdealKiloHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\obj\Debug\IdealKiloHesaplama.exe
+C:\Users\Lenovo\source\repos\IdealKiloHesaplama\obj\Debug\IdealKiloHesaplama.pdb
